@@ -4629,14 +4629,14 @@ hr {
 .footer-area .footer-social a {
   background: rgba(255, 0, 0, 0.1);
   color: #FF0000;
-  width: 40px;
-  height: 40px;
+  width: 70px;
+  height: 70px;
   border-radius: 50%;
-  font-size: 14px;
-  line-height: 40px;
+  font-size: 30px;
+  line-height: 69px;
   display: inline-block;
   text-align: center;
-  margin-right: 8px;
+  margin-right: 40px;
 }
 
 /* line 53, C:/Users/HP/Desktop/July-HTML/292 Health coach/assets/scss/_footer.scss */
